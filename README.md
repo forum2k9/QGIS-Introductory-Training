@@ -23,11 +23,23 @@ By the end of this training, each participant should feel confident working on t
 5)	Students will learn how to make great maps while learning best techniques in cartography and map making to enhance and communicate their map.
 
 
+# Authors
+  - Umar Yusuf - QGIS Introductory Training
+  - Musa Chindo - Introduction to GIS
+  
+
+# Reference
+While some of these datasets were made-up, just for educational purpose, some were collected from the following sources.
+  - Database of Global Administrative Areas: https://gadm.org
+  - QGIS on WikiPedia: https://en.wikipedia.org/wiki/QGIS
+  - NIMC FCT Enrolment Centres: https://www.nimc.gov.ng/fct-enrolment-centres/
+  - COVID-19 NIGERIA: https://covid19.ncdc.gov.ng/
+  - COVID-19 NIGERIA GIS: https://covid19.ncdc.gov.ng/gis/
 
 
+License
+----
 
+MIT
 
-
-
-
-Prepared by: UmarYusuf.com - Lead Training Designer
+  - Prepared by: UmarYusuf.com - Lead Training Designer
