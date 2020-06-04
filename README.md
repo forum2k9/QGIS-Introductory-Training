@@ -42,4 +42,4 @@ License
 
 MIT
 
-* Prepared by: UmarYusuf.com - Lead Training Designer *
+*Prepared by: UmarYusuf.com - Lead Training Designer*
