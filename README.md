@@ -35,6 +35,8 @@ While some of these datasets were made-up, just for educational purpose, some we
   - NIMC FCT Enrolment Centres: https://www.nimc.gov.ng/fct-enrolment-centres/
   - COVID-19 NIGERIA: https://covid19.ncdc.gov.ng/
   - COVID-19 NIGERIA GIS: https://covid19.ncdc.gov.ng/gis/
+  - Look up latitude and longitude of the places: https://www.latlong.net
+
 
 
 License
