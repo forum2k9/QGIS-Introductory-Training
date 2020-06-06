@@ -23,8 +23,12 @@ By the end of this training, each participant should feel confident working on t
 5)	Students will learn how to make great maps while learning best techniques in cartography and map making to enhance and communicate their map.
 
 
+### Recorded video of the presentation
+[![QGIS Into Training](https://img.youtube.com/vi/c6fli-_bjI4/0.jpg)](https://www.youtube.com/watch?v=c6fli-_bjI4)
+
+
 # Authors
-  - Umar Yusuf - QGIS Introductory Training
+  - Umar Yusuf - QGIS Introductory Practical Training
   - Musa Chindo - Introduction to GIS
   
 
@@ -44,4 +48,4 @@ License
 
 MIT
 
-*Prepared by: UmarYusuf.com - Lead Training Designer*
+*Prepared by: www.UmarYusuf.com - Lead Training Designer*
